@@ -1,3 +1,5 @@
+![concept image](./assets/concept.png)
+
 # About Me
 
 ## 思考・行動スタイル
