@@ -43,7 +43,7 @@
 ---
 
 ### Notes
-- [identity-architecture](./identity-architecture)  
+- [identity-architecture](https://github.com/watanabe126/identity-architecture)  
   家族・金融・連絡を「後から詰まない」ように設計する思考メモ
 
 ---
