@@ -42,6 +42,12 @@
 
 ---
 
+### Notes
+- life-identity-design  
+  家族・金融・連絡を「後から詰まない」ように設計する思考メモ
+
+---
+
 ## One-liner
 > I’m a decision-driven engineer who moves projects forward  
 > by turning uncertainty into a clear direction.
