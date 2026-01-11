@@ -43,7 +43,7 @@
 ---
 
 ### Notes
-- life-identity-design  
+- [life-identity-design](./life-identity-design)  
   家族・金融・連絡を「後から詰まない」ように設計する思考メモ
 
 ---
