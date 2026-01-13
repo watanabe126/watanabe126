@@ -43,8 +43,13 @@
 ---
 
 ### Notes
+- [decision_design_notes](https://github.com/watanabe126/decision_design_notes)  
+  判断と設計のメモ
+  
 - [identity-architecture](https://github.com/watanabe126/identity-architecture)  
   家族・金融・連絡を「後から詰まない」ように設計する思考メモ
+  
+
 
 ---
 
